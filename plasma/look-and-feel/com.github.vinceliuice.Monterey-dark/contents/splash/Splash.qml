@@ -33,10 +33,10 @@ Image {
 
             anchors.centerIn: parent
 
-            source: "images/logo.svg"
+            source: "images/plasma.svg"
 
-//            sourceSize.width: 503
-//            sourceSize.height: 99
+            sourceSize.width: 84
+            sourceSize.height: 84
         }
 
         Image {
